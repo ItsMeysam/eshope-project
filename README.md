@@ -4,6 +4,15 @@ Welcome to the **Django E-commerce Project**! This repository contains a fully f
 
 ---
 
+## Project images
+
+![1](https://github.com/meysam-Github/eshope_project/blob/master/Screenshot%20from%202024-12-21%2021-01-04.png)
+![2](https://github.com/meysam-Github/eshope_project/blob/master/Screenshot%20from%202024-12-21%2021-01-30.png)
+![3](https://github.com/meysam-Github/eshope_project/blob/master/Screenshot%20from%202024-12-21%2021-01-47.png)
+![4](https://github.com/meysam-Github/eshope_project/blob/master/Screenshot%20from%202024-12-21%2021-02-07.png)
+
+---
+
 ## Features
 
 This project implements the following key functionalities:
@@ -127,15 +136,3 @@ If you have any questions or suggestions, feel free to reach out:
 ---
 
 Thank you for checking out this project! If you find it helpful, don’t forget to give it a ⭐ on GitHub.
-
-
-
-
-
-
-## Project images
-
-![1](https://github.com/meysam-Github/eshope_project/blob/master/Screenshot%20from%202024-12-21%2021-01-04.png)
-![2](https://github.com/meysam-Github/eshope_project/blob/master/Screenshot%20from%202024-12-21%2021-01-30.png)
-![3](https://github.com/meysam-Github/eshope_project/blob/master/Screenshot%20from%202024-12-21%2021-01-47.png)
-![4](https://github.com/meysam-Github/eshope_project/blob/master/Screenshot%20from%202024-12-21%2021-02-07.png)
