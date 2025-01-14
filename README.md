@@ -1,6 +1,6 @@
 # Django eshope_project Project
 
-Welcome to the **Django E-commerce Project**! This repository contains a fully functional e-commerce web application built using the Django framework. Below is a detailed overview of the project, its features, and how to set it up.
+Welcome to the **Django Eshope Project**! This repository contains a fully functional e-commerce web application built using the Django framework. Below is a detailed overview of the project, its features, and how to set it up.
 
 ---
 
