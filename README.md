@@ -130,8 +130,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: your-email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/eshope_project)
+- Email: meysam.rzghi@gmail.com
+- LinkedIn: [Meysam Razzaghi](https://linkedin.com/in/itsmeysam)
 
 ---
 
