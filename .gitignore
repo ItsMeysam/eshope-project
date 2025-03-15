@@ -1,0 +1,35 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment
+venv/
+.env/
+.venv/
+
+# Ignore IDE files
+*.vscode/
+.idea/
+
+# Ignore Django secret and settings
+*.sqlite3
+db.sqlite3
+.env
+eshop_project/settings.py
+
+# Ignore static and media files
+staticfiles/
+uploads/
+
+# Ignore logs and temp files
+*.log
+*.bak
+*.swp
+*.swo
+
+# Ignore node modules (if using frontend with npm)
+node_modules/
+
+# Ignore MacOS system files
+.DS_Store
